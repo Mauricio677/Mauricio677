@@ -65,6 +65,7 @@
 ![Visual Studio](https://img.shields.io/badge/Visual_Studio-5C2D91?style=for-the-badge&logo=visualstudio&logoColor=white)
 ![Unity Hub](https://img.shields.io/badge/Unity-000000?style=for-the-badge&logo=unity&logoColor=white)
 ![Android Studio](https://img.shields.io/badge/Android_Studio-3DDC84?style=for-the-badge&logo=androidstudio&logoColor=white)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge)
 
 - 🥅 Otros:
 
@@ -89,10 +90,13 @@
 ## 🤖 AI Tools
 
 ![ChatGPT](https://img.shields.io/badge/ChatGPT-10A37F?style=for-the-badge&logo=openai&logoColor=white)
+![Codex](https://img.shields.io/badge/Codex-412991?style=for-the-badge&logo=openai&logoColor=white)
 ![Cursor](https://img.shields.io/badge/Cursor-000000?style=for-the-badge)
+![Windsurf](https://img.shields.io/badge/Windsurf-0EA5E9?style=for-the-badge)
 ![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-181717?style=for-the-badge&logo=githubcopilot&logoColor=white)
 ![Gemini](https://img.shields.io/badge/Gemini-4285F4?style=for-the-badge&logo=google&logoColor=white)
 ![Claude](https://img.shields.io/badge/Claude-D97706?style=for-the-badge)
+![Vercel AI](https://img.shields.io/badge/Vercel_AI-000000?style=for-the-badge&logo=vercel&logoColor=white)
 
 <br>
 
@@ -101,8 +105,8 @@
 ### 🤖 Reinforcement Learning Agent
 Agente inteligente desarrollado en Python utilizando la ecuación de Bellman y aprendizaje por refuerzo.
 
-### 📱 Android Delivery App
-Aplicación Android desarrollada en Java con RecyclerView, Google Maps y gestión de pedidos.
+### 📱 Minimarket Sales System
+Sistema de ventas para minimarket desarrollado con arquitectura Full Stack usando Spring Boot para backend y Angular para frontend.
 
 <br>
 
@@ -110,9 +114,9 @@ Aplicación Android desarrollada en Java con RecyclerView, Google Maps y gestió
 
 <p align="center">
 
-<img width="460" src="https://github-readme-stats.vercel.app/api?username=TU_USUARIO&theme=tokyonight&show_icons=true"/>
+<img width="460" src="https://github-readme-stats.vercel.app/api?username=Mauricio677&theme=tokyonight&show_icons=true"/>
 
-<img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=TU_USUARIO&layout=compact&theme=tokyonight"/>
+<img width="460" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Mauricio677&layout=compact&theme=tokyonight"/>
 
 </p>
 
@@ -126,7 +130,7 @@ Aplicación Android desarrollada en Java con RecyclerView, Google Maps y gestió
 
 <p align="center">
 
-<a href="TU_LINKEDIN" target="blank">
+<a href="https://www.linkedin.com/in/mauricio-barriga-pozo-2214922b6/" target="blank">
 <img align="center"
 src="https://i.pinimg.com/originals/de/b4/6f/deb46f02a59e3b3a2aa58fac16290d63.gif"
 height="40" width="45"/>
@@ -134,7 +138,7 @@ height="40" width="45"/>
 
 &nbsp;
 
-<a href="mailto:TU_CORREO@gmail.com" target="blank">
+<a href="mailto:mbarrigapozo9@gmail.com" target="blank">
 <img align="center"
 src="https://user-images.githubusercontent.com/86669668/171339003-ef5b5c96-eac8-478c-a9cc-318ca9477fce.gif"
 width="40"/>
